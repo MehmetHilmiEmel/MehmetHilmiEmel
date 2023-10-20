@@ -6,12 +6,11 @@
  </a>
 </div>
 
-<img src="https://github.com/MehmetHilmiEmel/MehmeHilmiEmel/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
+<h3 align="center">&nbsp; A passionate AI/ML Engineer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Computer Vision/ Natural Language Processing**
 
 - 💬 Ask me about **Artifical Intelligence**
 
