@@ -65,7 +65,6 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-<iframe width="949" height="534" src="https://www.youtube.com/embed/80PyIs0FJ20" title="Whatsapp Konuşmalarımdan Öğrenen Kendi Yapay Zekamı Oluşturdum!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 [![Whatsapp Konuşmalarımdan Öğrenen Kendi Yapay Zekamı Oluşturdum!](https://ytcards.demolab.com/?id=Hr0EJA1k8jE&title=ChatGPT+V4+Deneyimim&lang=en&timestamp=1689778816&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Whatsapp Konuşmalarımdan Öğrenen Kendi Yapay Zekamı Oluşturdum!")](https://www.youtube.com/watch?v=80PyIs0FJ20)
 [![Python ile Türkçe Duygu Durum Analizi.](https://ytcards.demolab.com/?id=PANX3XgEbYU&title=What+Typing+100+WPM+%28Words+Per+Minute%29+Looks+Like%3F&lang=en&timestamp=1689498011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Python ile Türkçe Duygu Durum Analizi.")](https://www.youtube.com/watch?v=EYM4Gr3v5XY)
 
