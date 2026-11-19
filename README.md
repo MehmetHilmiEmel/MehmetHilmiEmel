@@ -53,40 +53,15 @@
 
 
 
-
-
+<!-- Yılan Animasyonu Bölümü -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehmetHilmiEmel/MehmetHilmiEmel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehmetHilmiEmel/MehmetHilmiEmel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MehmetHilmiEmel/MehmetHilmiEmel/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
-
-
 <br />
 
-![](https://github-profile-trophy.vercel.app/?username=CagatayAkkas&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+<!-- Kendi GitHub Kupaların (Trophy) Bölümü -->
+![](https://github-profile-trophy.vercel.app/?username=MehmetHilmiEmel&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-
-<br />
-
-
-<br />
-
-
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
